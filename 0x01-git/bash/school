@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-ALX/echo ALX School is so cool!
-=======
+
+ALX/echo ALX "The school is open!" 
+
 #!/bin/bash
 echo "School is updated "
->>>>>>> 918bcde8b412d908e826ceb8d1bd07475d68e04d
+
+
